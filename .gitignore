@@ -85,5 +85,5 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 ## Minestorm
-/run/
-!/run/vanilla_worldgen_example
+/run/*
+!/run/vanilla_worldgen_example/

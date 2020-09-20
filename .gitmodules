@@ -1,6 +1,6 @@
 [submodule "Minestom"]
 	path = Minestom
 	url = https://github.com/DevScyu/Minestom
-[submodule "examples"]
-	path = examples
+[submodule "run/vanilla_worldgen_example"]
+	path = run/vanilla_worldgen_example
 	url = https://github.com/slicedlime/examples/
