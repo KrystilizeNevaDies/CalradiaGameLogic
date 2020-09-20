@@ -1,5 +1,6 @@
 package net.narses.game.commands;
 
+import fr.themode.demo.commands.TeleportCommand;
 import net.minestom.server.command.CommandManager;
 import net.minestom.server.command.builder.Command;
 
@@ -16,6 +17,8 @@ public enum VanillaCommands {
     STOP(StopCommand::new),
     HELP(HelpCommand::new),
     SAVE_ALL(SaveAllCommand::new),
+    TELEPORT(fr.themode.demo.commands.TeleportCommand::new),
+    HEALTH(fr.themode.demo.commands.HealthCommand::new),
     ;
 
     private final Supplier<Command> commandCreator;
