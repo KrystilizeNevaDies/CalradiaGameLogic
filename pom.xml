@@ -14,7 +14,7 @@
 
   <modules>
     <module>Minestom</module>
-    <module>Game</module>
+    <module>GameLogic</module>
   </modules>
 
   <build>
