@@ -1,7 +1,6 @@
 # CalradiaGameLogic
 Temp place for now
 
-
-Use this command to clone this project:
+## How to clone
 `git clone --recurse-submodules -j8 https://github.com/DevScyu/CalradiaGameLogic.git`
 
