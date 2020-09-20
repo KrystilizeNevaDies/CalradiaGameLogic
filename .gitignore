@@ -86,3 +86,4 @@ buildNumber.properties
 
 ## Minestorm
 /run/
+!/run/vanilla_worldgen_example
